@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://nextlevelweek.com/episodios/impulse/">🚀NLW eSports</a> Aula 1</h1>
+<h1 align="center"><a href="https://app.rocketseat.com.br/event/nlw-09/ignite/aula-1">🚀NLW eSports</a> Aula 1</h1>
 <p align="center">📂Um repositório com todas as aulas do NLW eSports</p>
 
 ---
