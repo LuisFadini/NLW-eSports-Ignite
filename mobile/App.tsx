@@ -10,6 +10,7 @@ import {
 import { Home } from "./src/screens/Home";
 import { Loading } from "./src/components/Loading";
 import { Background } from "./src/components/Background";
+import { Routes } from "./src/routes";
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -27,7 +28,7 @@ export default function App() {
         translucent
       />
       
-      {fontsLoaded ? <Home /> : <Loading />}
+      {fontsLoaded ? <Routes /> : <Loading />}
     </Background>
   );
 }
