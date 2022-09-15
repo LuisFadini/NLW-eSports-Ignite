@@ -5,7 +5,7 @@
 
 <h2 align="center">👨‍💻Aula 3</h2>
 <p align="center">
-Na aula 3, continuamos o backend com <a href="https://expressjs.com">Express</a> e <a href="https://prisma.io">🎲Prisma</a>.
+Na aula 3, continuamos o backend com <a href="https://expressjs.com">🌐Express</a> e <a href="https://prisma.io">🎲Prisma</a>.
 </p>
 <p align="center">
 Continuamos fazendo o backend, usando Express para interações http e Prisma para banco de dados.
