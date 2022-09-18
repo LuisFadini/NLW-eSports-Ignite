@@ -13,5 +13,5 @@ Terminamos o front-end e o app mobile, agora 100% prontos.
 
 ---
 
-<h2 align="center"><a href="https://app.rocketseat.com.br/event/nlw-09/ignite/aula-4">#AprendizadoContinuo</a>
+<h2 align="center"><a href="https://app.rocketseat.com.br/event/nlw-09/ignite/aula-5">#AprendizadoContinuo</a>
 </h2>
